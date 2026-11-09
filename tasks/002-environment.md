@@ -77,5 +77,8 @@ If the course announces a change to its package list, copy the three files again
 The cell in step 4 prints Python 3.14 and the same package versions as a session notebook, and the three files are pushed.
 
 ## Progress log
+- 2026-11-08: Copied the course environment files, ran `uv sync`, and verified Python 3.14.7 and package versions against the course notebook.
+- 2026-11-08: Removed the temporary `check.ipynb` notebook and committed the three environment files as `4e50a53`.
 
 ## Outcome
+- Successfully reproduced the course Python environment using `uv sync`. Python 3.14.7, NumPy 2.5.3, pandas 3.0.6, and Matplotlib 3.11.2 matched the course environment. The three configuration files were committed and pushed.
