@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: How do selected plasma protein abundance ratios change during recombinant human growth hormone treatment and subsequent washout?
+- Data: `data/41598_2017_9968_MOESM2_ESM.xls` (one row represents one protein entry); source: https://doi.org/10.1038/s41598-017-09968-7; accessed November 8, 2026.
+- Measured variable: Protein abundance ratio (`Ratio` columns for each experiment); dimensionless (no units).
