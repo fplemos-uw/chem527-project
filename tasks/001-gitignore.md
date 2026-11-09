@@ -65,5 +65,7 @@ If your data cannot be stored on GitHub, because they are too large or their lic
 `.gitignore` is pushed, and after `uv sync` in task 002, `git status` does not list `.venv/`. Close this task then.
 
 ## Progress log
+- 2026-11-08: Created `.gitignore` in the repository root, committed and pushed as `88b2298`.
 
 ## Outcome
+- `.gitignore` was committed and pushed successfully.
