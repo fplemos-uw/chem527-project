@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
-- **Status:** active
+- **Status:** closed
 - **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -57,5 +57,9 @@ git rev-parse HEAD
 The Canvas entry is in. Close this task after it is, with the URL you submitted in **Outcome**, and commit and push the closed task. Your mentor reads the repository at the commit you submitted, so later commits do not change what is scored.
 
 ## Progress log
+- Added the dataset and created `topic.ipynb`.
+- Wrote the project proposal and updated `AGENTS.md`.
+- Ran the notebook, pushed the commit, and submitted the URL to Canvas.
 
 ## Outcome
+Submitted to Canvas: https://github.com/fplemos-uw/chem527-project/commit/3820570
