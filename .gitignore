@@ -17,3 +17,6 @@ output/
 
 # Claude Code's record of the permissions you granted on this laptop
 .claude/settings.local.json
+
+# Longer drafts created by the user 
+drafts/
